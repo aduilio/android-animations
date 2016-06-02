@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="true">
+    <item
+        android:drawable="@drawable/stripped_0"
+        android:duration="25" />
+    <item
+        android:drawable="@drawable/stripped_1"
+        android:duration="25" />
+    <item
+        android:drawable="@drawable/stripped_2"
+        android:duration="25" />
+    <item
+        android:drawable="@drawable/stripped_3"
+        android:duration="25" />
+    <item
+        android:drawable="@drawable/stripped_4"
+        android:duration="25" />
+    <item
+        android:drawable="@drawable/stripped_5"
+        android:duration="25" />
+    <item
+        android:drawable="@drawable/stripped_6"
+        android:duration="25" />
+    <item
+        android:drawable="@drawable/stripped_7"
+        android:duration="25" />
+    <item
+        android:drawable="@drawable/stripped_8"
+        android:duration="25" />
+    <item
+        android:drawable="@drawable/stripped_9"
+        android:duration="25" />
+    <item
+        android:drawable="@drawable/stripped_10"
+        android:duration="25" />
+    <item
+        android:drawable="@drawable/stripped_11"
+        android:duration="25" />
+    <item
+        android:drawable="@drawable/stripped_12"
+        android:duration="25" />
+    <item
+        android:drawable="@drawable/stripped_13"
+        android:duration="25" />
+    <item
+        android:drawable="@drawable/stripped_14"
+        android:duration="25" />
+    <item
+        android:drawable="@drawable/stripped_15"
+        android:duration="25" />
+    <item
+        android:drawable="@drawable/stripped_16"
+        android:duration="25" />
+    <item
+        android:drawable="@drawable/stripped_17"
+        android:duration="25" />
+    <item
+        android:drawable="@drawable/stripped_18"
+        android:duration="25" />
+    <item
+        android:drawable="@drawable/stripped_19"
+        android:duration="25" />
+    <item
+        android:drawable="@drawable/stripped_20"
+        android:duration="25" />
+    <item
+        android:drawable="@drawable/stripped_21"
+        android:duration="25" />
+    <item
+        android:drawable="@drawable/stripped_22"
+        android:duration="25" />
+    <item
+        android:drawable="@drawable/stripped_23"
+        android:duration="25" />
+    <item
+        android:drawable="@drawable/stripped_24"
+        android:duration="25" />
+    <item
+        android:drawable="@drawable/stripped_25"
+        android:duration="25" />
+    <item
+        android:drawable="@drawable/stripped_26"
+        android:duration="25" />
+    <item
+        android:drawable="@drawable/stripped_27"
+        android:duration="25" />
+    <item
+        android:drawable="@drawable/stripped_28"
+        android:duration="25" />
+    <item
+        android:drawable="@drawable/stripped_29"
+        android:duration="25" />
+    <item
+        android:drawable="@drawable/stripped_30"
+        android:duration="25" />
+    <item
+        android:drawable="@drawable/stripped_31"
+        android:duration="25" />
+    <item
+        android:drawable="@drawable/stripped_32"
+        android:duration="25" />
+    <item
+        android:drawable="@drawable/stripped_33"
+        android:duration="25" />
+    <item
+        android:drawable="@drawable/stripped_34"
+        android:duration="25" />
+    <item
+        android:drawable="@drawable/stripped_35"
+        android:duration="25" />
+    <item
+        android:drawable="@drawable/stripped_36"
+        android:duration="25" />
+    <item
+        android:drawable="@drawable/stripped_37"
+        android:duration="25" />
+    <item
+        android:drawable="@drawable/stripped_38"
+        android:duration="25" />
+    <item
+        android:drawable="@drawable/stripped_39"
+        android:duration="25" />
+</animation-list>
