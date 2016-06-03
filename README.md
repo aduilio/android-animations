@@ -1,5 +1,5 @@
 # Android animations examples
 
-[![Android animations](http://share.gifyoutube.com/KzB6Gb.gif)](https://youtu.be/cE6d-tPvhu4)
+[![Android animations](https://giphy.com/gifs/android-l3uxehdKFhMC4)](https://youtu.be/cE6d-tPvhu4)
 
 
